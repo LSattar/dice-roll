@@ -1,0 +1,1 @@
+This Java program is intended to roll a 6 sided die and count how many rolls it takes to roll a 6. The roll counts are then written to either a txt or csv file, depending on what the user chooses. The user can also choose the sample size that they would like.
